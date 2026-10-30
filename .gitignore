@@ -1,0 +1,13 @@
+# ค่าตั้งค่าจริง (มีรหัสผ่านฐานข้อมูล) — ให้คัดลอกจาก config.example.php
+config.php
+
+# รูปที่ผู้ใช้อัปโหลด
+uploads/*
+!uploads/.htaccess
+!uploads/.gitkeep
+
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.log
